@@ -327,7 +327,7 @@ function initMap(){
 				[41.901193885970194, 12.50115127436904],
 				[40.40675956935116, -3.6895582819890094]
 			],
-			urlMarks = '../img/icons/mapMark.svg',
+			urlMarks = 'img/icons/mapMark.svg',
 			map = new google.maps.Map(document.getElementById('map'), options);
 
 	
